@@ -142,7 +142,7 @@ View All Menu
 
 
 
-#---------- MANU ----------#
+#---------- MENU ----------#
 
 Special Selection
 
@@ -161,7 +161,7 @@ alt = Lasagne
 Lasagne
 
 $40.00
-Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices
+Vegetables, cheeses, ground meats, tomato sauce, seasonings and spices.
 
 3.
 alt = Butternut Pumpkin

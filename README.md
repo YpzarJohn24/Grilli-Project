@@ -3,4 +3,4 @@ Grilli is a fully responsive restaurant website, responsive for all devices, bui
 
 
 Demo Screenshots
-https://github.com/YpzarJohn24/Grilli-Project/blob/main/readme-images/desktop.png
+C:\Users\Test\Desktop\Grilli\readme-images\desktop.png

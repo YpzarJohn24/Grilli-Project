@@ -2125,7 +2125,7 @@ textarea.input-field {
   /* Special Dish */
 
   .special-dish {
-    overflow: hidden;
+    overflow: visible;
     position: relative;
   }
 
